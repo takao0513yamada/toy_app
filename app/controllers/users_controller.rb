@@ -5,6 +5,8 @@ class UsersController < ApplicationController
   # GET /users.json
   def index
     @users = User.all
+    # app/views/リソース名/アクション名(メソッド名).heml.erb
+    # app/views/users/index.heml.erb
   end
 
   # GET /users/1
