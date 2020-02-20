@@ -1,6 +1,6 @@
-<mxfile modified="2020-02-20T07:57:55.974Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="ZooJeAVZSFuGBBk4Sg9A" version="12.7.1" type="github" pages="2">
+<mxfile modified="2020-02-20T08:05:21.134Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="fE3p_5887_6pGnoq-SS3" version="12.7.1" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1654" dy="1750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1196" dy="1750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,7 +119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NetWork_Layer" id="pzy1qrrqjW8q7XtWttFB">
-    <mxGraphModel dx="1654" dy="1750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1196" dy="1750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="lMnDtFu1b-YP4sJ-e_9c-0" />
         <mxCell id="lMnDtFu1b-YP4sJ-e_9c-1" parent="lMnDtFu1b-YP4sJ-e_9c-0" />
@@ -161,6 +161,15 @@
             <mxPoint x="960" y="910" as="sourcePoint" />
             <mxPoint x="160" y="690.909090909091" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ov2zcJN9r1sqZxTE84Bp-0" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#5A30B5;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.route_table;" vertex="1" parent="lMnDtFu1b-YP4sJ-e_9c-1">
+          <mxGeometry x="600" y="167" width="78" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="_44iP7wfkhipQuMunnoF-2" value="Route Table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="lMnDtFu1b-YP4sJ-e_9c-1">
+          <mxGeometry x="590" y="238" width="98" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_44iP7wfkhipQuMunnoF-3" value="Internet&lt;br&gt;Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="lMnDtFu1b-YP4sJ-e_9c-1">
+          <mxGeometry x="597.5" y="101" width="79" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
